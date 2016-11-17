@@ -3,13 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "R6ZDJPQGW7.ru.aeroflot.afl",
-        "paths": [ "*", "/" ]
-      },
-
-      {
         "appID": "5A9EHVHTM9.ru.aeroflot.afl",
-        "paths": [ "*", "/" ]
+        "paths": [ "*" ]
       }
     ]
   }
