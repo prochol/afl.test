@@ -8,7 +8,7 @@
       },
       {
         "appID": "C2XA42L2S3.com.gaikagroup.Zentry",
-        "paths": ["/main/A/none/*"]
+        "paths": ["*"]
       },
     ]
   }
