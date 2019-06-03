@@ -5,7 +5,11 @@
       {
         "appID": "5A9EHVHTM9.ru.aeroflot.afl",
         "paths": [ "*" ]
-      }
+      },
+      {
+        "appID": "D3KQX62K1A.com.gaikagroup.Zentry",
+        "paths": ["/main/A/none/*"]
+      },
     ]
   }
 }
