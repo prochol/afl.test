@@ -2,14 +2,14 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appID": "5A9EHVHTM9.ru.aeroflot.afl",
-        "paths": [ "*" ]
-      },
-      {
+    {
         "appID": "C2XA42L2S3.com.gaikagroup.Zentry",
         "paths": ["*"]
       },
+      {
+        "appID": "5A9EHVHTM9.ru.aeroflot.afl",
+        "paths": [ "*" ]
+      }      
     ]
   }
 }
