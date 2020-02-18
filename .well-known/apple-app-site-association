@@ -3,8 +3,22 @@
     "apps": [],
     "details": [
       {
-        "appID": "5A9EHVHTM9.ru.aeroflot.afl",
-        "paths": [ "*" ]
+        "appID": "VLY3J629TB.com.ursanotsomajor.Flowwow",
+        "paths": [
+          "/e/*"
+        ]
+      },
+      {
+        "appID": "VLY3J629TB.com.ursanotsomajor.Flowwow.beta",
+        "paths": [
+          "/e/*"
+        ]
+      },
+      {
+        "appID": "VLY3J629TB.com.ursanotsomajor.Flowwow.dev",
+        "paths": [
+          "/e/*"
+        ]
       }
     ]
   }
